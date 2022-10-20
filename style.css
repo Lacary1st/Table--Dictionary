@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+    width: 50%;
+   
+}
+table td{
+    color: white;
+    background-color: rgb(250, 6, 6);
+    text-align: justify;
+    border: 1px solid white;
+}
+.table1{
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid red;
+}
+.ad{
+    color: white;
+    background-color: rgb(250, 6, 6);
+    text-align:start;
+   
+}
